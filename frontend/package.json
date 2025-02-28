@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "axios": "^1.8.1",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  }
-}
