@@ -1,8 +1,12 @@
 {
- "scripts": {
-  "dev": "vite",
-  "start": "vite preview",
-  "build": "vite build"
-}
-
+  "name": "webdata",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite preview",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^4.5.0"
+  }
 }
