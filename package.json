@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "dev": "vite",
-    "start": "vite preview",
-    "build": "vite build"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
   }
 }
