@@ -4,7 +4,6 @@
   "scripts": {
     "dev": "vite",
     "start": "vite preview",
-    "build": "next build",
     "build": "echo 'No build step defined' && exit 1"
 
   },
