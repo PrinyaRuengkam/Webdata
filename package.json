@@ -3,5 +3,8 @@
     "dev": "vite",
     "start": "vite preview",
     "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
   }
 }
