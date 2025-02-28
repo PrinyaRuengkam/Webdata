@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite preview",
-    "build": "vite build"
+    "build": "next build"
   },
   "dependencies": {
     "vite": "^4.5.0"
