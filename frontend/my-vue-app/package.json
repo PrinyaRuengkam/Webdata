@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "vite",
     "start": "vite preview",
-    "build": "echo 'No build step defined' && exit 1"
+    "build": "react-scripts build"
+
 
   },
   "dependencies": {
